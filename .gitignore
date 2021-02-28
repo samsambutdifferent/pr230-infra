@@ -1,0 +1,5 @@
+.terraform/
+key.json
+.vscode
+terraform.tfstate
+terraform.tfstate.backup
